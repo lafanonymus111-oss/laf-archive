@@ -23,8 +23,12 @@
   - Erzsébet híd
   - Margit híd
   - Kossuth Lajos tér (Parlament)
-- **Rövid leírás:**
-A kedd délutáni tüntetést a Ferenciek terén tartották, Hadházy eredetileg az Erzsébet hídra szervezte volna, de a rendőrség nem engedélyezte. A tüntetésen Hadházy mellett felszólalt Baranyi Krisztina ferencvárosi polgármester, Lőcsei Lajos, a Momentum alelnöke, és Daniel Freund német EP-képviselő is. A tüntetésen részt vettek a Momentum és a Demokratikus Koalíció képviselői is. A Ferenciek terén este 7 körül vége lett a rendezvénynek, a tömeg egy része egy Momentum-molinó mögött átvonult a Szabadság hídhoz, ahol fél 8-tól egyórás blokád alá vonták a hidat. A tömeg egy része később a Petőfi hidat, egy kisebb csoport (másodszor) az Erzsébet hidat is elfoglalta. A Petőfi hídról a tüntetők a Nagykörúton keresztül a Margit hídhoz vonultak, majd onnan a Parlamenthez mentek.
+- **Rövid leírás:**  
+  A Ferenciek terén tartott tüntetés a gyülekezési jog módosítása ellen zajlott, Hadházy Ákos és több közszereplő felszólalásával.
+- **Esemény lefolyása:**  
+  A rendezvény a Ferenciek terén kedd délután kezdődött. Hadházy Ákos eredetileg az Erzsébet hídra jelentette be a tüntetést, ezt a rendőrség nem engedélyezte.  
+  A felszólalások után a rendezvény 19 óra körül ért véget, ezt követően a résztvevők egy része a Szabadság hídhoz vonult, ahol fél nyolctól egyórás blokádot tartottak.  
+  A tömeg egy része később a Petőfi hidat, egy kisebb csoport az Erzsébet hidat is elfoglalta. A Petőfi hídról a tüntetők a Nagykörúton keresztül a Margit hídhoz vonultak, majd onnan a Kossuth Lajos térre mentek.
 ### Források
 - Telex: Nem engedélyezi a rendőrség, hogy az Erzsébet hídon tartsák Hadházyék keddi tüntetését - https://telex.hu/belfold/2025/03/24/hadhazy-akos-tuntetes-pride-gyulekezesi-jog-rendorsegi-hatarozat
 - Telex: Újabb tüntetést jelentett be jövő hétre Hadházy Ákos - https://telex.hu/belfold/2025/03/19/hadhazy-akos-tuntetes-pride-gyulekezesi-jog
